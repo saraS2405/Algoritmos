@@ -1,7 +1,0 @@
-soma = 0
-
-for in range(5):
-    n= int(input("Digite um número inteiro:"))
-    soma = soma + n 
-
-print("A soma de todos os valores digitados é:", soma)

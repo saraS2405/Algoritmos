@@ -1,8 +1,0 @@
-velocidade= float(input("Digite a velocidade do carro (km/h): "))
-
-if velocidade> 80:
-    km= velocidade - 80
-    multa= km * 5
-    print("Você foi multado! O valor da multa é ", multa,".")
-else:
-    print("Boa Viagem!")
